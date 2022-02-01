@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vasu
-- 👀 I’m interested in python, pandas, fjango,, flask
+- 👀 I’m interested in python, pandas, django,, flask
 - 🌱 I’m currently learning python, Tableu
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me on vasu.vs45@gmail.com

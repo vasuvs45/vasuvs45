@@ -8,4 +8,4 @@
 
 📫 reach out to me on vasushar@iu.edu, vasu.vs45@gmail.com
 
-👩🏻‍💻check out my 
+👩🏻‍💻

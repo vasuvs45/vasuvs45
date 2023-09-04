@@ -7,4 +7,5 @@
 😃I have a solid understanding of data structures and ML algorithms and I'm always learning more. As a backend developer I have worked for Clients such as Capital Group and Good United. I've worked with technologies like Python, SQL, Pstgresql in the past.
 
 📫 reach out to me on vasushar@iu.edu, vasu.vs45@gmail.com
+
 👩🏻‍💻check out my 

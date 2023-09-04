@@ -1,4 +1,4 @@
-**Hi I am Vasu Sharma**
+**Hi, I am Vasu Sharma**
 
 🌱 I am a graduate student pursuing Masters in Data Science from Indiana University Bloomington. I have more than 4 years of work experience specializing in Python development, Algorithms, Data visualization in Tableau ,Data Processing in AWS, Python and SQL/PGSQL database system. Primarily looking for Data Engineer/Data Analyst/Data Scientist/ Python Developer/Database Developer roles.    
 
